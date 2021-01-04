@@ -1,2 +1,1 @@
-# angular-complete-2021
-Complete Demo
+# angular-complete-2021-Examples
