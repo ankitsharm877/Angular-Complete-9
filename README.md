@@ -1,5 +1,5 @@
 # Angular 9+ complete Examples
-This project contains all angular 2 basic concept example:
+This project contains all angular 9+ example:
   * modules-and-component
   * data-binding
   * build-in-pipe
